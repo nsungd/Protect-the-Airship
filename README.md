@@ -1,5 +1,5 @@
 # HW04: Protect the Airship
-## Download my_project.gba to play (needs mGBA emulator)
+### Download my_project.gba to play (needs mGBA emulator)
 ## Controls
 Start:
 (On start screen) - starts game
